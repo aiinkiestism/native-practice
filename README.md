@@ -1,2 +1,2 @@
 # native-practice
-his is a public native app practice repository.
+This is a public native app practice repository.
